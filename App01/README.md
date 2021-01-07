@@ -1,6 +1,16 @@
 # App01
 
-A new Flutter project.
+Simple Login UI in Flutter
+
+Landing Screen of the App
+![](Screenshots/01.png)
+
+Login Screen
+![](Screenshots/02.png)
+
+SignUP Screen
+![](Screenshots/03.png)
+
 
 ## Getting Started
 
